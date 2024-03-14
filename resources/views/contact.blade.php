@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<x-layout>
+    <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,5 +9,8 @@
 </head>
 <body>
     <h2>Hello from the contact page.</h2>
+    <br>
+    <a href="/">Go Back to home</a>
 </body>
 </html>
+</x-layout>
